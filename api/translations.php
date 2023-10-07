@@ -1,37 +1,5 @@
 <?php
 
-/**
- * Locales
- * -------
- * For a list of supported locale codes, see https://gist.github.com/DenverCoder1/f61147ba26bfcf7c3bf605af7d3382d5
- *
- * Date Format
- * -----------
- * If the default date format for the locale displays correctly, you should omit the date_format parameter.
- * Supplying a date format is optional and will be used instead of the default locale date format.
- *
- * Different year   Same year   Format string
- * --------------   ---------   -------------
- * 10/8/2016        10/8        j/n[/Y]
- * 8/10/2016        8/10        n/j[/Y]
- * 2016.8.10        8.10        [Y.]n.j
- *
- * For info on valid date_format strings, see https://github.com/DenverCoder1/github-readme-streak-stats#date-formats
- *
- * Right-to-Left Language Support
- * ------------------------------
- * To enable right-to-left language support, add `"rtl" => true` to the locale array (see "he" for an example).
- *
- * Comma Separator
- * ---------------
- * To change the comma separator in the enumeration of excluded days, add `"comma_separator" => ", "` to the locale array with the desired separator as the value.
- *
- * Aliases
- * -------
- * To add an alias for a locale, add the alias as a key to the locale array with the locale it should redirect to as the value.
- * For example, if "zh" is an alias for "zh_Hans", then `"zh" => "zh_Hans"` would be added to the locale array.
- */
-
 return [
     // "en" is the default locale
     "en" => [
