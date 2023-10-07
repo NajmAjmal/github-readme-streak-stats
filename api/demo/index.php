@@ -45,8 +45,7 @@ function fileModifiedTime(string $filename): int
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-48CYVH0XEF"></script>
+
     <script>
         window.dataLayer = window.dataLayer || [];
 
@@ -80,11 +79,11 @@ function fileModifiedTime(string $filename): int
     <!-- GitHub badges/links section -->
     <div class="github">
         <!-- GitHub Sponsors -->
-        <a class="github-button" href="https://github.com/sponsors/denvercoder1" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-heart" data-size="large" aria-label="Sponsor @denvercoder1 on GitHub">Sponsor</a>
+        <a class="github-button" href="https://github.com/sponsors/NajmAjmal" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-heart" data-size="large" aria-label="Sponsor @NajmAjmal on GitHub">Sponsor</a>
         <!-- View on GitHub -->
-        <a class="github-button" href="https://github.com/denvercoder1/github-readme-streak-stats" data-color-scheme="no-preference: light; light: light; dark: dark;" data-size="large" aria-label="View denvercoder1/github-readme-streak-stats on GitHub">View on GitHub</a>
+        <a class="github-button" href="https://github.com/NajmAjmal/github-readme-streak-stats" data-color-scheme="no-preference: light; light: light; dark: dark;" data-size="large" aria-label="View NajmAjmal/github-readme-streak-stats on GitHub">View on GitHub</a>
         <!-- GitHub Star -->
-        <a class="github-button" href="https://github.com/denvercoder1/github-readme-streak-stats" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star denvercoder1/github-readme-streak-stats on GitHub">Star</a>
+        <a class="github-button" href="https://github.com/NajmAjmal/github-readme-streak-stats" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star NajmAjmal/github-readme-streak-stats on GitHub">Star</a>
     </div>
 
     <div class="container">
@@ -92,7 +91,7 @@ function fileModifiedTime(string $filename): int
             <h2>Properties</h2>
             <form class="parameters">
                 <label for="user">Username<span title="required">*</span></label>
-                <input class="param" type="text" id="user" name="user" placeholder="DenverCoder1" pattern="^[A-Za-z\d-]{0,39}[A-Za-z\d]$" title="Up to 40 letters or hyphens but not ending with hyphen" />
+                <input class="param" type="text" id="user" name="user" placeholder="NajmAjmal" pattern="^[A-Za-z\d-]{0,39}[A-Za-z\d]$" title="Up to 40 letters or hyphens but not ending with hyphen" />
 
                 <label for="theme">Theme</label>
                 <select class="param" id="theme" name="theme">
@@ -245,7 +244,7 @@ function fileModifiedTime(string $filename): int
                 </button>
             </div>
             <div class="bottom">
-                <a href="https://github.com/DenverCoder1/github-readme-streak-stats/blob/main/docs/faq.md" target="_blank" class="underline-hover faq">
+                <a href="https://github.com/NajmAjmal/github-readme-streak-stats/blob/main/docs/faq.md" target="_blank" class="underline-hover faq">
                     Frequently Asked Questions
                     <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
                         <g>
