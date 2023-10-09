@@ -119,4 +119,4 @@ The current streak is the number of consecutive days ending with the current day
 
 ---
 
-Made with ❤️ and PHP
+Made by Najm Ajmal & DenverCoder1
